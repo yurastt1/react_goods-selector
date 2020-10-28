@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,UACE,UAAW,CACZ,QAGC,gBAAiB,CAEjB,gBACE,iBAAkB","file":"main.34d1904d.chunk.css","sourcesContent":[".selected {\r\n  color: blue;\r\n}\r\n\r\n.button {\r\n  margin-left: 20px;\r\n\r\n  &--hidden {\r\n    visibility: hidden;\r\n  }\r\n}\r\n"]}
